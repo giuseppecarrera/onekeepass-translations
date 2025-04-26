@@ -1,7 +1,7 @@
 {
     "helperTexts": {
         "cardVerificationValue/Number": "Card Verification Value/Number",
-        "copiedToClipboard": "Copied to clipboard",
+        "copiedToClipboard": "Copiato negli appunti",
         "customFieldAdded": "Custom field added. You can add more field or cancel to close",
         "databaseSettingsChange": "Database settings change is in progress",
         "dbDisplayName": "Display name for your database",
